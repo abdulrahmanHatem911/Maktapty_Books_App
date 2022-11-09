@@ -1,0 +1,16 @@
+{
+    "helloWorld": "مرحبا بك في التطبيق",
+    "maktabty":"مكتبتي",
+    "language": "اللغة",
+    "english": "الإنجليزية",
+    "arabic":"العربية",
+    "search": "بحث",
+    "suggestions": "إقتراحات",
+    "bestSeller": "الأكثر مبيعا",
+    "offers": "عروض",
+    "newRelease": "إصدارات جديدة",
+    "whatFriendsRead": "الأصدقاء الذين قرأوا",
+    "upcomingBook": "كتب قادمة",
+    "bookDetails": "تفاصيل الكتاب",
+    "aboutTheBook": "نبذة عن الكتاب"
+}

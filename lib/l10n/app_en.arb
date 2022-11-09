@@ -1,0 +1,58 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "maktabty": "Maktabty",
+    "@Maktabty": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "language": "Language",
+    "@language": {
+      "description": "The language of the program"
+    },
+    "english": "English",
+    "@english": {
+      "description": "The current language of the program"
+    },
+    "arabic": "Arabic",
+    "@arabic": {
+      "description": "The  scounde language of the program"
+    },
+    "search": "Search",
+    "@search": {
+      "description": "The search button"
+    },
+    "suggestions":"Suggestion",
+    "@suggestions": {
+      "description": "The suggestion of the user"
+    },
+    "bestSeller":"Best Seller",
+    "@bestSeller": {
+      "description": "The best seller of the program"
+    },
+    "offers":"Offers",
+    "@offers": {
+      "description": "The offers of the program"
+    },
+    "newRelease":"New Release",
+    "@newRelease": {
+      "description": "The new release of the program"
+    },
+    "whatFriendsRead":"What friends read",
+    "@WhatFriendsRead": {
+      "description": "The what friends read of the program"
+    },
+    "upcomingBook":"Upcoming Book",
+    "@upcomingBook": {
+      "description": "The upcoming book of the program"
+    },
+    "bookDetails":"Book Details",
+    "@bookDetails": {
+      "description": "The book details of the program"
+    },
+    "aboutTheBook":"About the book",
+    "@aboutTheBook": {
+      "description": "The about the book of the program"
+    }
+  }
